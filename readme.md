@@ -2,7 +2,7 @@
 
 I learned this project from Brad Traversy's Tailwind CSS Udemy course. This project is about using grid with Tailwind CSS.
 
-live demo:
+live demo: https://learn-tailwindcss-testimonial.netlify.app/
 
 ## Usage
 
